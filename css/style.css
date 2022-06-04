@@ -1,0 +1,34 @@
+body {
+    background-image: url('/img/water-1.jpg');
+    font-family: 'Roboto Mono',monospace;
+    min-height: 400px;
+    background-color: #ffffff;
+    background-size: 200vh;
+    background-repeat: no-repeat;
+  }
+header{
+  margin: 0 25%;
+    text-align: center;
+}
+  .container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+  }
+
+
+  
+  .page-title {
+    color: #2A4390;
+    margin: 300px 0 5px;
+    
+}
+
+.page-subtitle {
+    color: #2A4390;
+    margin-top: 5px;
+  }
+  
+#res p {
+  margin: 30px
+}
